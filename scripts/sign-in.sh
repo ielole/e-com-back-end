@@ -2,8 +2,8 @@
 
 API="http://localhost:4741"
 URL_PATH="/sign-in"
-EMAIL="a1@a1.com"
-PASSWORD="123"
+EMAIL="p@p.com"
+PASSWORD="1"
 
 curl "${API}${URL_PATH}" \
   --include \
